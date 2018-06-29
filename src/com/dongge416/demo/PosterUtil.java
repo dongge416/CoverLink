@@ -31,6 +31,7 @@ public class PosterUtil {
 		InputStream imageinTarget = null;
 		InputStream imageinBg = null;
 		OutputStream outImage = null;
+		//sdfda
 		Image imageTaget = null;
 //		InputStream imageInQrcode = null;
 //		String targetPicUrl = goodModel.getPic()+"_500x500.jpg";
